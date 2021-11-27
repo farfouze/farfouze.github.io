@@ -12,5 +12,5 @@ body {
   font-family: "font-1", serif;
   height: 300vh;
   /* Background */
-  background: url(./assets/Background-1.jpg) fixed no-repeat center/cover;
+  background: url() fixed no-repeat center/cover;
 
