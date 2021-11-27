@@ -7,8 +7,6 @@
 }
 /* =================== */
 
-/* *=Tout */
-
 /* BODY */
 body {
   font-family: "font-1", serif;
@@ -16,35 +14,3 @@ body {
   /* Background */
   background: url(./assets/Background-1.jpg) fixed no-repeat center/cover;
 
-  /* Pour mettre une couleur faire: `background: rgb(175, 230, 255);` */
-}
-
-/* H1 = Titre */
-h1 {
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-size: 2.5rem;
-  color: rgb(47, 0, 255);
-  text-shadow: 2px 1px 2px rgba(0, 0, 0, 0.39);
-  text-align: center;
-  font-family: "Roboto Mono", monospace;
-  font-weight: bolder;
-}
-
-/* H2 = Sous-Titre */
-h2 {
-  font-family: "font-1", serif;
-  text-align: center;
-}
-
-/* MAIN */
-
-main {
-  background: whitesmoke;
-  width: 90%;
-  min-height: 500px;
-  margin: 10px auto;
-  padding: 2px 20px;
-  border-radius: 2vh 2vw;
-  box-shadow: 5px 4px 12px 0px rgba(0, 0, 0, 0.541);
-}
